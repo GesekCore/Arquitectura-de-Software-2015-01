@@ -5,3 +5,8 @@ http://citeseerx.ist.psu.edu/viewdoc/download?rep=rep1&type=pdf&doi=10.1.1.226.6
 http://abdennour-insat.blogspot.com/2012/05/1-intoduction-to-soa.html (definicion de servicio)
 http://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-part-nine-conclusions/
 https://www.opengroup.org/soa/source-book/soa_refarch/services.htm
+
+
+TB2
+
+http://www.developerfusion.com/article/9794/domain-driven-design-a-step-by-step-guide-part-1/
