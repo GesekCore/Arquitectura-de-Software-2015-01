@@ -10,3 +10,4 @@ https://www.opengroup.org/soa/source-book/soa_refarch/services.htm
 TB2
 
 http://www.developerfusion.com/article/9794/domain-driven-design-a-step-by-step-guide-part-1/
+http://sa.inceptum.eu/sites/sa.inceptum.eu/files/Content/Quality%20Attribute%20Generic%20Scenarios-2.pdf (Ya esta todo)
