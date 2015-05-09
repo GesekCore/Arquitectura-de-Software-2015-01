@@ -11,3 +11,6 @@ TB2
 
 http://www.developerfusion.com/article/9794/domain-driven-design-a-step-by-step-guide-part-1/
 http://sa.inceptum.eu/sites/sa.inceptum.eu/files/Content/Quality%20Attribute%20Generic%20Scenarios-2.pdf (Ya esta todo)
+https://upc.blackboard.com/bbcswebdav/pid-2869125-dt-content-rid-10322254_1/courses/SI253-1501-SW71/2006_005_001_14795.pdf
+https://msdn.microsoft.com/en-us/magazine/dd419654.aspx
+http://www-public.int-evry.fr/~gibson/Teaching/CSC7322/ReadingMaterial/Evans03.pdf
